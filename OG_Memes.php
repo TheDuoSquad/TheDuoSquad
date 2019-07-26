@@ -7,18 +7,19 @@
     <title>Og Memes</title>
 </head>
 <body>
-   <div class="container">
-        <ul class="nav nav-tabs">
+<div class="container">
+<ul class="nav nav-tabs">
                 <li class="nav-item">
                   <a class="nav-link active" href="index.php">Home</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="daily_memes.php">Daily Memes</a>
+                  <a class="nav-link" href="daily_memes.php">Weekly Memes</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="OG Memes.php">Og Memes</a>
+                  <a class="nav-link" href="OG_Memes.php">Og Memes</a>
                 </li>
                 <li class="nav-item">
+                <a class="nav-link" href="Thanos_Memes.php">Thanos Memes</a>
                 </li>
               </ul>
 <body>
